@@ -47,4 +47,9 @@ There are a couple of words to note when using github:
 - Remote: This is your laptop. You have control everything here without messing with things in the cloud.
 - Repository: This is a collection of files. Think about it as the world you are making with code.
 
+Links: 
+https://www.jetbrains.com/help/webstorm/contribute-to-projects.html#fork 
+https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#clone-repo
+https://www.jetbrains.com/help/webstorm/installation-guide.html
+
 
